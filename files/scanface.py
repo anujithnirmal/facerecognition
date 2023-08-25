@@ -2,7 +2,7 @@ import os
 import cv2
 
 # Create a directory to store the dataset
-dataset_dir = 'C:\\Users\\IT\\AppData\\Local\\Programs\\Python\\Python310\\venv4wxpython\\Scripts\\face recognition\\datasetnew'
+dataset_dir = 'path to your project folder'
 if not os.path.exists(dataset_dir):
     os.makedirs(dataset_dir)
 

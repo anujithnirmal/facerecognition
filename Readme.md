@@ -19,12 +19,10 @@ A Python-based face recognition model using machine learning.
 ## Features
 
 - Real-time face detection
-- Face recognition using deep learning
-- User-friendly CLI interface
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
+Contributions are welcome!
 
 ## License
 

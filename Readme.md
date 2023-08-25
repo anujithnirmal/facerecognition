@@ -5,7 +5,7 @@ A Python-based face recognition model using machine learning.
 ## Installation
 
 1. Clone this repository.
-2. Install required dependencies using `pip install -r requirements.txt`.
+2. Install required dependencies for python and import modules mentioned in the python files
 
 ## Usage
 

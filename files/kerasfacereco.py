@@ -29,7 +29,7 @@ def load_dataset(data_dir):
             print(label)
     return np.array(images), np.array(labels), label_to_name
 
-data_dir = 'C:\\Users\\IT\\AppData\\Local\\Programs\\Python\\Python310\\venv4wxpython\\Scripts\\face recognition\\datasetnew'
+data_dir = 'path to your project folder'
 images, labels, label_to_name = load_dataset(data_dir)
 
 # Normalize images

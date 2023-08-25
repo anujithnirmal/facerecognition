@@ -1,6 +1,6 @@
 import os
 
-dataset_dir = 'C:\\Users\\IT\\AppData\\Local\\Programs\\Python\\Python310\\venv4wxpython\\Scripts\\face recognition\\datasetnew'
+dataset_dir = 'path to your project folder'
 label_file = 'label_file.txt'
 
 with open(label_file, 'w') as file:

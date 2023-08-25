@@ -28,6 +28,3 @@ Contributions are welcome!
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any questions or feedback, reach out to me at example@email.com.

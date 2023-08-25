@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow.keras import models
 
 # Load the trained model
-model = models.load_model('trained_model.keras')
+model = models.load_model('trained_model.keras') # trained model name 
 
 # Load the label-to-name mapping
 label_to_name = {0: 'name1', 1: 'name2', 2: 'name3'}  # Update with your label-to-name mapping,can be made dynamic with detected labelling

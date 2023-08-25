@@ -1,6 +1,6 @@
 import os
 
-folder_path = 'C:\\Users\\IT\\AppData\\Local\\Programs\\Python\\Python310\\venv4wxpython\\Scripts\\face recognition\\datasetnew\\yourfoldername'  # Replace with the actual folder path
+folder_path = 'path to your image dataset folder'  # Replace with the actual folder path
 file_extension = '.jpg'  # Replace with the desired file extension
 
 # Get a list of all files in the folder with the specified extension
